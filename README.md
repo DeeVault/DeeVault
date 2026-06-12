@@ -4,6 +4,8 @@ Recent First Class Honours graduate in Cyber Security & Networks from Glasgow Ca
 
 I'm drawn to the offensive side of security - red teaming, understanding attack surfaces, and building tools that make emerging threats tangible. Lately that's pulled me toward AI security, where the tooling is still catching up with the threats.
 
+Background includes penetration testing, network security, and dissertation research into AiTM proxy phishing and MFA bypass techniques in AWS cloud environments.
+
 ---
 
 ### Public projects
@@ -18,7 +20,7 @@ These are two of several projects. More to come.
 
 ### Interests
 
-Red teaming - AI security and LLM attack surfaces - agentic systems - offensive tooling - social engineering - tradecraft
+Red teaming - AI security and LLM attack surfaces - agentic systems - offensive tooling - social engineering - threat modelling
 
 ---
 
