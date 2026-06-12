@@ -18,7 +18,7 @@ These are two of several projects. More to come.
 
 ### Interests
 
-Red teaming - AI security and LLM attack surfaces - agentic systems - offensive tooling - social engineering - pattern recognition
+Red teaming - AI security and LLM attack surfaces - agentic systems - offensive tooling - social engineering - tradecraft
 
 ---
 
