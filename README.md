@@ -16,9 +16,6 @@ Background includes penetration testing, network security, and dissertation rese
 **[WebMCP MSTI Harness](https://github.com/DeeVault/WebMCP-MSTI-Harness)** - Reproducible attack harness for Mid-Session Tool Injection attacks on AI agents via the WebMCP browser protocol. Implements paper-accurate attack scenarios from arXiv:2606.06387, tested across multiple models with an HTML report output.
 
 
-
-More to come.
-
 ---
 
 ### Interests
