@@ -11,9 +11,11 @@ Background includes penetration testing, network security, and dissertation rese
 
 **[ContextPoison](https://github.com/DeeVault/ContextPoison)** - Benchmarks LLM resistance to fabricated evidence injection across frontier models. Includes responsible disclosure, third-party scorer validation, and results across Claude, GPT, Gemini, and Grok.
 
+**[MCPSec](https://github.com/DeeVault/MCPSec)** - Security toolkit for MCP deployments. Demonstrates DCI, specification pitfall, and tool poisoning attacks against live agents, and audits MCP server manifests for the same vulnerability classes. Findings mapped to OWASP LLM Top 10 and MITRE ATLAS.
+
 **[WebMCP MSTI Harness](https://github.com/DeeVault/WebMCP-MSTI-Harness)** - Reproducible attack harness for Mid-Session Tool Injection attacks on AI agents via the WebMCP browser protocol. Implements paper-accurate attack scenarios from arXiv:2606.06387, tested across multiple models with an HTML report output.
 
-**[MCPSec](https://github.com/DeeVault/MCPSec)** - Security toolkit for MCP deployments. Demonstrates DCI, specification pitfall, and tool poisoning attacks against live agents, and audits MCP server manifests for the same vulnerability classes. Findings mapped to OWASP LLM Top 10 and MITRE ATLAS.
+
 
 More to come.
 
